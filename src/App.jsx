@@ -49,7 +49,7 @@ export default function App() {
               GitHub
             </a>
             <a
-              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0/DevScribe.zip"
+              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0.0/DevScribe-1.0.exe"
               target="_blank"
               rel="noopener noreferrer"
             >
