@@ -49,7 +49,7 @@ export default function App() {
               GitHub
             </a>
             <a
-              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0.0/DevScribe-1.0.exe"
+              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0.1/DevScribe-portable.zip"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -71,11 +71,10 @@ export default function App() {
           <section className="hero">
             <h2>Your Lightweight Code Editor</h2>
             <p>
-              DevScribe supports Java, Python, and C with real-time error
-              highlighting and a built-in terminal for seamless coding.
+              DevScribe supports Java, Python and a built-in terminal for seamless coding.
             </p>
             <a
-              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0.0/DevScribe-1.0.exe"
+              href="https://github.com/KushalYKale/DevScribe/releases/download/v1.0.1/DevScribe-portable.zip"
               target="_blank"
               rel="noopener noreferrer"
             >
