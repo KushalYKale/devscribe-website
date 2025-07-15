@@ -7,7 +7,6 @@ const features = [
   { title: "🎨 Syntax Highlighting", description: "Supports Java, Python, and C with a smooth editor powered by RichTextFX." },
   { title: "🧠 Real Terminal Input", description: "Run code with interactive terminal input and output like real console apps." },
   { title: "📁 Project Explorer", description: "Easily open and manage project folders while maintaining layout consistency." },
-  { title: "🚨 Error/Warning Highlighting", description: "Catch compilation issues with real-time error and warning highlights." },
   { title: "⚙️ Auto Python Dependency Installer", description: "Automatically installs missing Python packages using pip." },
   { title: "🌗 Light & Dark Themes", description: "Switch between visually pleasing light and dark modes effortlessly." }
 ];
@@ -120,7 +119,7 @@ export default function App() {
         </main>
 
         <footer>
-          <p>© 2025 | DevScribe. All rights reserved.</p>
+          <p>© 2025  | DevScribe. All rights reserved.</p>
         </footer>
       </div>
     </>
