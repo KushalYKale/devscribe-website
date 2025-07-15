@@ -120,7 +120,7 @@ export default function App() {
         </main>
 
         <footer>
-          <p>© 2025 Kushal Y Kale | DevScribe. All rights reserved.</p>
+          <p>© 2025 | DevScribe. All rights reserved.</p>
         </footer>
       </div>
     </>
